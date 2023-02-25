@@ -1,0 +1,1 @@
+a:2:{s:2:"dd";s:60:"$2y$10$dAfl2IJ5Wpvy7e48BpS/tu0MbxKhdwyRw7CANWqpvhJDQUO5cbUfS";s:5:"bosta";s:60:"$2y$10$DVkXElXLPqLKOPcr2CsZh.U/RhRXvAI.jtpz79RQ0RFsZ/8iJMxpS";}
